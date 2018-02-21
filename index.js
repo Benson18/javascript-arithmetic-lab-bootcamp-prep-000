@@ -23,10 +23,10 @@ function dec(a){
 }
 
 function makeInt(a){
-  return parseInt(a,10)
+  return parseInt(a.toString)
 }
 
-function makeInt(a){
-  return (0)
+function makeInt(string){
+  return parseInt(a,10)
   
 }
