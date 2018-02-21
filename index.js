@@ -28,10 +28,4 @@ function makeInt(a){
 
 function preserveDecimal(n){
   return parseFloat ('2.222')
-}
-
-function preserveDecimal(n){
-  if (parsefloat==='sldkjflksjf'){
-    return 'NaN'
   }
-}
