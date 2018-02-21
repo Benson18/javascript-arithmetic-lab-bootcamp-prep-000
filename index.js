@@ -31,5 +31,5 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  return 'parseFloat ('sldkjflksjf)
+  if (parseFloat==='sldkjflksjf)
 }
