@@ -31,5 +31,7 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  if (parseFloat==='sldkjflksjf)
+  if (parsefloat==='sldkjflksjf'){
+    return 'NaN'
+  }
 }
