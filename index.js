@@ -22,11 +22,11 @@ function dec(a){
   return(a-1)
 }
 
-function makeInt(a){
-  return a.toString()
+function makeInt(n){
+  return parseInt(n,10)
 }
 
-function makeInt(string){
+function makeInt(n){
   return (0)
   
 }
